@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: brown;
+    border: orange solid 5px;
+    border-radius: 10px;
+}
+
+img {
+    border: darkblue solid 5px;
+    border-radius: 20px;
+    
+}
+div {
+    color: darkgreen;
+}
+
+#descriptionSect {
+    font-style: italic
+}
+
+.listClass {
+    border: dotted 5px red;
+}
